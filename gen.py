@@ -1,5 +1,5 @@
 import sys
-
+  
 #Put "number1" space and "number" line jump 
 def jumptab(number, number1):
     i = 0
